@@ -1,5 +1,9 @@
 export default {
     data: {
-        title: 'World'
-    }
+        result: '?',
+    },
+
+    roll() {
+        this.result = Math.floor(Math.random() * 5) + 1;
+    },
 }

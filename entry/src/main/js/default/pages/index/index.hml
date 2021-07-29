@@ -1,5 +1,4 @@
 <div class="container">
-    <text class="title">
-        Hello {{ title }}
-    </text>
+    <text class="title">{{ result }}</text>
+    <text class="button" onclick="roll">{{$t('strings.roll')}}</text>
 </div>
