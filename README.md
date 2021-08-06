@@ -8,6 +8,6 @@
 ## Запуск
 Открыть Dev-Eco Studio
 
-В качестве устройства запуска выбрать Huawei Light Wearable Simulator
+В качестве устройства запуска выбрать Huawei Lite Wearable Simulator
 
 Запустить (нажав на кнопку ▶️ )
